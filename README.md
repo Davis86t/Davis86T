@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davis86t&label=Profile%20views&color=0e75b6&style=flat" alt="davis86t" /> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](tannerdavis.io)
+- 🔭 I’m currently working on [my personal portfolio](http://tannerdavis.io)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [tannerdavis.io](tannerdavis.io)
+- 👨‍💻 All of my projects are available at [tannerdavis.io](http://tannerdavis.io)
 
 - 💬 Ask me about **React**
 
