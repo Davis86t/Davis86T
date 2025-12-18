@@ -41,14 +41,14 @@
 ---
 
 ### 📌 Selected Work
-- **Grails 6 Upgrade & Onboarding Documentation**  
-  Practical handbook supporting legacy system modernization and developer ramp-up
-
 - **Enterprise Java Developer Mac Setup**  
-  Reproducible macOS environment for Grails, Java, and SQL-backed systems
+  https://github.com/Davis86t/mssu-dev-mac-setup
 
-- **Web Applications & Utilities**  
-  React and Next.js projects supporting internal and personal initiatives
+- **Grails 6 Upgrade & Onboarding Documentation**  
+  https://github.com/Davis86t/grails-handbook
+
+- **Java + SQL Foundations**  
+  https://github.com/Davis86t/java-sql-foundations
 
 ---
 
