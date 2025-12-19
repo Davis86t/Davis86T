@@ -40,18 +40,6 @@
 
 ---
 
-### 📌 Selected Work
-- **Enterprise Java Developer Mac Setup**  
-  https://github.com/Davis86t/mssu-dev-mac-setup
-
-- **Grails 6 Upgrade & Onboarding Documentation**  
-  https://github.com/Davis86t/grails-handbook
-
-- **Java + SQL Foundations**  
-  https://github.com/Davis86t/java-sql-foundations
-
----
-
 ### 🔗 Links
 - Portfolio: https://tannerdavis.io  
 - LinkedIn: https://linkedin.com/in/davis86t  
